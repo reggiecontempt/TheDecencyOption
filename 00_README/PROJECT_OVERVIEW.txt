@@ -1,0 +1,17 @@
+The Decency Option — Cloud Master Package
+-----------------------------------------
+This archive contains the verified database, manuscript files, creative library,
+and the stubbed 'Secure Mesh User-Propagated Modular Services Platform' (SMUP-MSP).
+
+Folder map:
+  01_DATABASE/        — SQLite master, duplicate/variant logs, integrity notes
+  02_MANUSCRIPT/      — The Decency Act (full render + proof sample), sections, appendices
+  03_CREATIVE_LIBRARY/— Regisms, Floating Points, Rants, Policy, Rhetoric (session extracts)
+  04_MESH_PLATFORM/   — stub repository layout + specs for manifests/handshake/sync/transfer
+  05_EXPORTS/         — proof/export zips (placeholders ready to be regenerated)
+  06_AUTOMATION/      — roll script, hash verification, cloud sync notes
+
+Notes:
+- This package is portable. Unzip anywhere and all text assets are immediately usable.
+- The mesh platform is stubbed code for reference and completeness, not a prescription.
+- Integrity hashes are recorded in 00_README/HASH_LEDGER.txt.

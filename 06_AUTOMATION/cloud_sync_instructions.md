@@ -1,0 +1,2 @@
+- Upload the entire 'The_Decency_Option' folder to your cloud provider.
+- Optionally, zip the folder with 06_AUTOMATION/roll_script.sh for dated snapshots.
